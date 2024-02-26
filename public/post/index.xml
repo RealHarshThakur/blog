@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on blog</title>
+    <link>https://hersh.life/post/</link>
+    <description>Recent content in Posts on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hersh.life/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a career</title>
+      <link>https://hersh.life/post/career/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://hersh.life/post/career/</guid>
+      <description>Intro It&amp;rsquo;s heartbreaking to see people I care about, people with whom I&amp;rsquo;ve spent good moments, people that are way smarter than I am - struggling with building a career. I&amp;rsquo;m not someone who has it all figured out either but I know what helped me. It bothers me what I&amp;rsquo;m about to share isn&amp;rsquo;t common knowledge and there are people who exploit this lack of information. This is roughly the advice I&amp;rsquo;ve followed or realised over the years.</description>
+    </item>
+  </channel>
+</rss>
