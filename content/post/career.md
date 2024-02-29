@@ -6,26 +6,26 @@ description = ""
 +++
 
 
-# Intro
-It's heartbreaking to see people I care about, people with whom I've spent good moments, people that are way smarter than I am - struggling with building a career. I'm not someone who has it all figured out either but I know what helped me.  It bothers me what I'm about to share isn't common knowledge and there are people who exploit this lack of information. This is roughly the advice I've followed or realised over the years. Most people I admire or respect have similar thought process. 
+# Why am I writing this?
+It's heartbreaking to see people I care about, people with whom I've spent good moments, people that are way smarter than I am - struggling with building a career. I'm not someone who has it all figured out either but I know what helped me.  It bothers me what I'm about to share isn't common knowledge and there are people who exploit this lack of information. I've also mentioned beliefs and the various plans I've seen most people use that I strongly disagreed with. It's not meant to be a golden guide but it's meant to be a thought process that I've used and that I believe is worth sharing.
 
 
 # Philosophical elements
 
 ## Needs vs wants.
-A few centuries ago, people used to work only for their needs and struggle to meet them. We live in a much better world today- we still have people struggling for their needs but that number is much smaller than it used to be. Although, the world is much better- there's a societal pressure on kids(as early as when they turn 10 years old) to figure out their future needs and wants- they're asked to pick career paths in forms of education they pick. For what it's worth, grown-ups themselves are bad at differentiating with needs vs wants. To make matters worse, education isn't free in most countries. Kids need to win the birth lottery to get one. Birth lottery is being born in a country either the education is free or you've parents who can afford it.  A few choices have been made for them depending on their birth lottery to what they can pursue. For example, if you wanted to be a doctor and you haven't won the birth lottery in your favor, it's time to get a reality check of whether being a doctor is a need or a want. It's important to realise a few things:
+A few centuries ago, people used to work only for their needs and struggle to meet them. We live in a much better world today- we still have people struggling for their needs but that number is much smaller than it used to be. Although, the world is much better today, we've blurred the lines between need and wants with modern economics. 
+
+There's a societal pressure on kids(as early as when they turn 10 years old) to figure out their future needs and wants- they're asked to pick career paths in forms of education they pick. For what it's worth, grown-ups themselves are bad at differentiating with needs vs wants. To make matters worse, education isn't free in most countries. Kids need to win the birth lottery to get one. Birth lottery is being born in a country either the education is free or you've parents who can afford it.  A few choices have been made for them depending on their birth lottery to what they can pursue. For example, if you wanted to be a doctor and you haven't won the birth lottery in your favor, it's time to get a reality check of whether being a doctor(since the education for it requires a lot of money typically) is a need or a want. It's important to realise a few things:
 * It's not end of the road but it's possible for you to switch careers in the future. You're only increasing your odds from here on out.
 * You might discover that your dream job is good in your dreams but not in reality, there's some aspect of the job that you won't like.
 * It's possible that there are other career paths you might fall in love with. 
 
 As said in BoJack Horseman:
 
-`
 "Well, That's the problem with life, right? Either you know what you want, and then you don't get what you want. Or you get what you want, and then you don't know what you want"
-`
 
 
-Takeway here is that you will have to work for your needs, you do not get a choice and it's not the end of the world..
+ When facing a critical situation that can define the trajectory of your life, it's best to optimise for needs because without it, you'll jeopradise your survival. Without survival, you cannot aim higher as shown in [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). You will have to work for your needs, you do not get a choice and it's not the end of the world.
 
 
 ## Everything sucks, time to suck up and deal with it!
@@ -33,7 +33,7 @@ It's surprising how many people blame their parents or college or other societal
 
 
 ## Don't be disappointed playing the odds to find your worth
-There are examinations that are designed to test what a person's value is based on the decisions they make before they even turn 18. If you actually like the subjects you're studying, it's a no brainer for you to play the odds. If you don't and if your parents will struggle paying for coaching fees, etc for you to find out if this will work, consider skipping it if if you're not sure you can fully commit and be successfull. It doesn't overly matter if you do or do not crack such exams. It's an opinionated way to have a process to success (there's very little innovation on how to improve such processes), it is no by means the only way for you to prove what you'll be worth.  
+There are examinations that are designed to test what a person's value is based on the decisions they make before they even turn 18. If you actually like the subjects you're studying, it's a no brainer for you to play the odds. If you don't and if your parents will struggle paying for coaching fees, etc for you to find out if this will work, consider skipping it if if you're not sure you can fully commit and be successfull. It doesn't overly matter if you do or do not crack such exams. It's an opinionated way to have a process to determine who in society can provide most value (there's very little innovation on how to improve such processes), it is no by means the only way for you to prove what you'll be worth.  
 
 ## Illegal career paths
 I've had this conversation more than once, so thought it's worth bringing it up. I've noticed once people realise that the world isn't helping them, they start to think of illegal activities to earn their income. There's a burning sensation in such people to stop caring about what society thinks of them. It's the right kind of energy to go against what society thinks to provide value but breaking the law or making morally questionable choices is a bad idea. It's never worth the risk of getting caught, especially when there are lots of good options out there that won't risk jail time or make you feel guilty about your hard work. It is [proven with Game theory](https://www.youtube.com/watch?v=mScpHTIi-kM) that the world is a better place when we help each other, don't make rash decisions when you're a teenager.
@@ -44,7 +44,7 @@ If there is a shortcut to provide value and you being paid as a result of the se
 
 
 ## Time is a scarce resource
-As Paul Krugman said, "Productivity isn't everything, but in the long run it is almost everything". 
+As Paul Krugman said, "Productivity isn't everything, but in the long run it is almost everything". Everyone heard this and it sounds a cliche but practically, people make up these excuses. 
 
 
 ### Oh, but I plan for masters abroad!
@@ -101,13 +101,16 @@ At this point, you probably have some level of understanding of problem spaces a
 Startups look for people who provide value immediately and their interview processes are aligned that way. If you know you can provide value and you can prove it to them, they will hire you as soon as possible. Multi-national companies have a lot of bureaucracy and it's hard to prove you can provide value in their interview processes. There's a lot of leeway when applying to a startup- it doesn't matter if you don't exactly have the right kind of education, years of experience and you can cold email/DM to get in touch. Startups also get you lot of visibility within the company to let you prove your worth. In a multi-national company, as an entry level employee, it's a long road to even be visible for the decision makers of the company, the farther away you are- the tougher it'll be to demand what your worth or increase the value you could potentially deliver to demand it. Even if you really want to work at a multi-national company for some reason, I believe it'll be worth it to work at a startup for a few years and then apply to a multi-national company for a higher position. 
 
 
+## Certifications
+If the only way for you to prove your worth to your employer is by certifications, go for it. Lot of fields do not have an obvious way and usually, certifications have higher value to get started in career. Certifications, like degrees are proxies to prove someone you may be valuable. It is always better to prove it by showing that you can do it. If you're in tech, there's a very low cost entry to prove what value you can deliver by doing it unlike other fields. There's no equivalent of Open Source Software in other fields, use it to your advantage if your employer values it. This is also why it's preferable to pick startups as they use less of proxy measures.
+
 ## Understand the company
-Ideally, you should be able to understand the business a company is in- you do not want to get onboard a sinking ship(example: crypto companies being clear red flags). Understanding business also helps you help the company to grow their worth and let you increase yours. It's important to also check if you'll culturally fit in the company. 
+Ideally, you should be able to understand the business a company is in- you do not want to get onboard a sinking ship(example: crypto companies being clear red flags). Understanding business also helps you help the company to grow their worth and let you increase yours. It's important to also check if you'll culturally fit in the company. If the skills you've developed are in alignment to help the company grow, it'll be a no brainer for company to promote you , if it is culturally good or for you to explore other options as you've proven to yourself that you can deliver value. 
 
 
 ## Don't diverisfy your skillset
 
-Warren Buffet famously said, "Diversification is protection against ignorance" . I think that's amazing advice to follow with your skillsets too. If you think, "it's a good compromise if I learn few skills required to get in MNC and few for startups"- that's a bad idea (In tech world, this is the popular leetcode vs open-source debate).  You'll end up being average at both and not be able to provide value to either. It's better to be really good at one thing. It does matter what you pick so take your time before you pick as it'll depend on where you want to want.
+Warren Buffet famously said, "Diversification is protection against ignorance" . I think that's amazing advice to follow with your skillsets too. If you think, "it's a good compromise if I learn few skills required to get in MNC and few for startups"- that's a bad idea (In tech world, this is the popular leetcode vs open-source debate).  You'll end up being average at both and not be able to provide value to either. It's better to be really good at one thing. It does matter what you pick so take your time before you pick as it'll depend on where you want to want. Have an endgoal of what problem you'll want to be solving when you start your job and try to figure out what skillsets you'll be needing. It's good to understand landscapes but do not do it at the expense of the skillsets you'll be needing at your job.  
 
 ## Do not be afraid to aim higher
 
