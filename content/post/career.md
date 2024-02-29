@@ -120,7 +120,7 @@ There's a famous saying, "Dress up for the job you want, not the one you have". 
 If you've targeted couple companies, you're confident in the skills you possess and are able to demonstrate value you can provide to them- you might still be rejected for some reason. It's okay, don't take it personally. It's a good idea to fail fast and move on to the next company. It's likely that you'll be rejected by a lot of companies before you get hired. It's a good idea to keep track of the reasons you're rejected and work on them. Also, never go for the first offer you get even if it sounds perfect. That's the first time you've heard your perceived value in the market. It's a good idea to keep interviewing until you get a few offers and then pick the best one and negotiate the terms.
 
 
-# Conclusion
-Good luck and remember:
+# Closing thoughts
+Hope this helps you feel less lost and question common practices and advice. Good luck and remember:
 
 “It's not the destination, it's the journey”- Ralph Waldo Emerson.
